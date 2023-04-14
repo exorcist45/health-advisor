@@ -11,7 +11,7 @@ To run this project open Android Studio and select "Check out project from Versi
 
 ![Step 1](Pictures/screen1.png)
 
-Then paste this repo's URL 
+Then paste this repo's URL (https://github.com/exorcist45/health-advisor)
 
 ![Step 2](Pictures/screen2.png)
 
