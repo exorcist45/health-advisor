@@ -1,4 +1,4 @@
-# Health Quiz Android App
+# Health Advisor Android App
 
 ![Demo](Pictures/demoPic1.png)
 ![Demo](Pictures/demoPic2.png)
